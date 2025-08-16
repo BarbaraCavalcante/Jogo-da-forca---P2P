@@ -1,5 +1,5 @@
 # Jogo da Forca - Projeto de Redes de Computadores
-Este é um projeto da matéria de redes de computadores que visa a aplicação dos conceitos acerca da conexão P2P, com Seleção de Protocolo de Transporte e Suporte a IPv4/IPv6, em um trabalho avaliativo prático.
+Este é um projeto da matéria de redes de computadores que visa a aplicação dos conceitos acerca da conexão P2P, com Seleção de Protocolo de Transporte e Suporte a IPv4/IPv6, em um trabalho avaliativo prático. Se trata de um jogo da forca de dois jogadores, em que o Servidor decide a palavra secreta e o Cliente tem que adivinhar. Se o cliente adivinhar a palavra secreta, ele ganha, se não, o Servidor ganha.
 
 Discentes: Sofia Guimarães (20241054010011), Bárbara Cavalcante (20241054010003), Daniel Guimarães (20241054010076), Ybison de Oliveira (20241054010023), Fernanda da Silva (202410540061).
 
