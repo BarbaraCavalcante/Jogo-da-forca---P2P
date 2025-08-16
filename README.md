@@ -12,5 +12,4 @@ Servidor: IPv4 - "0.0.0.0"; IPv6 - "::"
 Cliente: O endereço de IP do cliente vai variar de computador a computador. Para saber o endereço IP do seu computador, basta apertar a tecla Windows+R e digitar na barra de pesquisa do executável "cmd". Depois, digitar no terminal "ipconfig". Os endereços IPv4 e IPv6 de link local, que são os utilizados no jogo, serão exibidos.
 Porta de entrada: ex.: 5555.
 Nome do protocolo: "tcp" para protocolo TCP e "udp" para protocolo UDP.
-
 Depois disso, basta digitar a palavra secreta e a dica (opcional) no executável que aparece na tela.
